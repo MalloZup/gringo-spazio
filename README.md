@@ -6,3 +6,5 @@ https://bugzilla.redhat.com/describecomponents.cgi?product=Red%20Hat%20Satellite
 
 2) automatizzare bicho nella testsuite, e implementare la funzione:
  skip if bugnumber("3005").open
+
+3) usare http://zetcode.com/db/postgresqlruby/ per postgres test
